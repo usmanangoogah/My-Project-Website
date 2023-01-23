@@ -1,0 +1,100 @@
+* {
+  padding: auto;
+  margin: auto;
+}
+
+body {
+  background-image: url(Media/Background\ 4.jpeg);
+  height: 100vh;
+  width: 100%;
+  background-image: url(Media/Background\ 7.jpg);
+  background-position:  center;
+  background-size: cover;
+}
+
+label.one {
+  border: 1px solid orange;
+  border-radius: 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: orange;
+  padding: 5px;
+}
+label.two {
+  border: 1px solid blue;
+  border-radius: 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: blue;
+  padding: 5px;
+  color: #fff;
+}
+label.three {
+  border: 1px solid red;
+  border-radius: 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: red;
+  padding: 5px;
+}
+label.four{
+  border: 1px solid rgb(15, 220, 59);
+  border-radius: 15px;
+  font-weight: normal;
+  text-transform: uppercase;
+  background-color: rgb(15, 220, 59);
+  padding: 3px;
+}
+
+#one {
+  margin-bottom: 20px;
+  padding: 5px;
+}
+
+#two {
+  margin-bottom: 20px;
+
+}
+
+#three {
+  margin-bottom: 20px;
+}
+
+
+
+
+
+
+button.one, button.two {
+ margin-left: 20px;
+}
+
+input {
+padding: 5px;
+margin-left: 10px;
+border-radius: 5px;
+border: 2px solid black;
+}
+
+.four {
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.nacoss {
+  width: 200px;
+  float: right;
+}
+
+.nsuk {
+  width: 200px;
+}
+
+.five {
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 280px;
+}
